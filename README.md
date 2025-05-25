@@ -2,6 +2,8 @@
 
 A beginner-friendly, configurable pressure monitoring system using Kypruino UNO+ board (or Arduino Uno R3) with real-time readings, 5-minute statistics, visual feedback and alarms with settings menu.
 
+<img src="images/in_enclosure.png" height="300">
+
 ---
 
 ## ❓ Why Build Your Own Pressure Monitor?
@@ -24,6 +26,8 @@ Whether you’re a weekend DIYer, a small workshop owner or running a commercial
   - Color LEDs give instant “OK/not-OK” feedback from across the garage or plant  
 
 Build it once, customize it forever! This DIY monitor adapts to any sensor and any medium—air, water, oil or gas—so you’ll always know that your system is running at just the right pressure.  
+
+<img src="images/AirTools_1.png" height="300"> <img src="images/AirTools_2.png" height="300">
 
 ---
 
@@ -50,7 +54,7 @@ Build it once, customize it forever! This DIY monitor adapts to any sensor and a
 | Juliet cable (3-pin, used 4-pin)        | 1   | [Aliexpress](https://a.aliexpress.com/_okZiCaa) |
 | Compressor adapter size                 | 1   | [Aliexpress](https://a.aliexpress.com/_okpXfQW) |
 | Compressor adapter splitter             | 1   | [Aliexpress](https://a.aliexpress.com/_oFyPQGe) |
-| Solder header pins                      | —   | [Robo Store](https://robo.com.cy/collections/components/products/male-header-pins-40) |
+| Solder header pins                      | 4   | [Robo Store](https://robo.com.cy/collections/components/products/male-header-pins-40) |
 | 128×32 I²C OLED display                 | 1   | [Robo Store](https://robo.com.cy/collections/modules/products/0-91-blue-oled-128x32-display-iic) |
 
 ---
@@ -69,6 +73,8 @@ Build it once, customize it forever! This DIY monitor adapts to any sensor and a
    - just plug into a special screen socket of your Kypruino UNO+
 
 > If you are using a plain Uno R3, you have to wirie external buttons, LEDs & buzzer (scheme will be added later).
+
+<img src="images/wiring.png" height="500">
 
 ---
 
