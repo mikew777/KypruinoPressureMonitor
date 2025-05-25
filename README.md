@@ -1,4 +1,4 @@
-# DIY Compressor Pressure Monitor 🎛️
+# DIY Pressure Monitor (air | water | gas | oil) 🎛️
 
 A beginner-friendly, configurable pressure monitoring system using Kypruino UNO+ board (or Arduino Uno R3) with real-time readings, 5-minute statistics, visual feedback and alarms with settings menu.
 
@@ -43,14 +43,15 @@ Build it once, customize it forever! This DIY monitor adapts to any sensor and a
 
 | Item                                    | Qty | Notes        |
 |-----------------------------------------|:---:|--------------|
-| Enclosure                               | 1   | [URL]        |
-| USB-C power supply                      | 1   | [URL]        |
-| Kypruino UNO+ v0.6 (or Arduino Uno R3)  | 1   | [URL]        |
-| Analog pressure sensor (0–8 bar)        | 1   | [URL]        |
-| Juliet cable (3-pin, used 4-pin)        | 1   | [URL]        |
-| Compressor adapters                     | 1   | [URL]        |
-| Solder header pins                      | —   | [URL]        |
-| 128×32 I²C OLED display                 | 1   | [URL]        |
+| Enclosure                               | 1   | [Datasheet](https://famatel.com/wp-content/uploads/3051.pdf)  |
+| USB-C power supply                      | 1   | [Robo Store](https://robo.com.cy/collections/cables-wires/products/raspberry-pi-15w-usb-c-official-power-supply) |
+| Kypruino UNO+ v0.6 (or Arduino Uno R3)  | 1   | [Robo Store](https://robo.com.cy/collections/arduino/products/kypruino-uno-v0-6) |
+| Analog pressure sensor (0–8 bar)        | 1   | [Aliexpress](https://a.aliexpress.com/_oFyPQGe) |
+| Juliet cable (3-pin, used 4-pin)        | 1   | [Aliexpress](https://a.aliexpress.com/_okZiCaa) |
+| Compressor adapter size                 | 1   | [Aliexpress](https://a.aliexpress.com/_okpXfQW) |
+| Compressor adapter splitter             | 1   | [Aliexpress](https://a.aliexpress.com/_oFyPQGe) |
+| Solder header pins                      | —   | [Robo Store](https://robo.com.cy/collections/components/products/male-header-pins-40) |
+| 128×32 I²C OLED display                 | 1   | [Robo Store](https://robo.com.cy/collections/modules/products/0-91-blue-oled-128x32-display-iic) |
 
 ---
 
