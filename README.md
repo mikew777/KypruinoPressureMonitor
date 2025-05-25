@@ -41,6 +41,8 @@ Build it once, customize it forever! This DIY monitor adapts to any sensor and a
 - 🔄 **Optimized OLED updates**—only redraw changed regions  
 - 💾 **EEPROM-friendly**—writes thresholds only on change  
 
+[![KypruinoPressureMonitor on Vimeo](images/vimeo.png)](https://vimeo.com/1087579404?share=copy)
+
 ---
 
 ## 📝 Bill of Materials
