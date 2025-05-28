@@ -2,9 +2,11 @@
 
 A beginner-friendly, configurable pressure monitoring system using Kypruino UNO+ board (or Arduino Uno R3) with real-time readings, 5-minute statistics, visual feedback and alarms with settings menu.
 
-<div style="max-width:100%; height:300px; overflow:hidden;">
-  <img src="images/in_enclosure.png" style="height:100%; width:auto;">
-</div>
+<picture>
+    <img src="images/in_enclosure.png"
+         alt="Photo in enclosure installed on compressor"
+         style="max-height: 300px; height: auto; width: auto; max-width: 100%; display: block; margin: auto;">
+</picture>
 
 ---
 
@@ -29,9 +31,16 @@ Whether you’re a weekend DIYer, a small workshop owner or running a commercial
 
 Build it once, customize it forever! This DIY monitor adapts to any sensor and any medium—air, water, oil or gas—so you’ll always know that your system is running at just the right pressure.  
 
-<div style="max-width:100%; height:300px; overflow:hidden;">
-  <img src="images/AirTools_1.png" style="height:100%; width:auto;"> <img src="images/AirTools_2.png" style="height:100%; width:auto;">
-</div>
+<picture>
+    <img src="images/AirTools_1.png"
+         alt="Air tool use case example - photo 1"
+         style="max-height: 300px; height: auto; width: auto; max-width: 100%; display: block; margin: auto;">
+</picture>
+<picture>
+    <img src="images/AirTools_2.png"
+         alt="Air tool use case example - photo 2"
+         style="max-height: 300px; height: auto; width: auto; max-width: 100%; display: block; margin: auto;">
+</picture>
 
 ---
 
@@ -46,7 +55,11 @@ Build it once, customize it forever! This DIY monitor adapts to any sensor and a
 - 💾 **EEPROM-friendly**—writes thresholds only on change  
 
 <a href="https://vimeo.com/1087579404?share=copy" target="_blank" rel="noopener noreferrer">
-  <img src="images/vimeo.png" alt="KypruinoPressureMonitor on Vimeo">
+  <picture>
+    <img src="images/vimeo.png"
+         alt="KypruinoPressureMonitor on Vimeo"
+         style="max-height: 300px; height: auto; width: auto; max-width: 100%; display: block; margin: auto;">
+  </picture>
 </a>
 
 
@@ -83,9 +96,12 @@ Build it once, customize it forever! This DIY monitor adapts to any sensor and a
 
 > If you are using a plain Uno R3, you have to wirie external buttons, LEDs & buzzer (scheme will be added later).
 
-<div style="max-width:100%; height:500px; overflow:hidden;">
-  <img src="images/wiring.png" style="height:100%; width:auto;">
-</div>
+<picture>
+    <img src="images/wiring.png"
+         alt="Wiring of the Kypruino UNO+"
+         style="max-height: 500px; height: auto; width: auto; max-width: 100%; display: block; margin: auto;">
+</picture>
+
 
 ---
 
