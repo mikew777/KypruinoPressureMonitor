@@ -2,7 +2,9 @@
 
 A beginner-friendly, configurable pressure monitoring system using Kypruino UNO+ board (or Arduino Uno R3) with real-time readings, 5-minute statistics, visual feedback and alarms with settings menu.
 
-<img src="images/in_enclosure.png" height="300">
+<div style="max-width:100%; height:300px; overflow:hidden;">
+  <img src="images/in_enclosure.png" style="height:100%; width:auto;">
+</div>
 
 ---
 
@@ -27,21 +29,26 @@ Whether you’re a weekend DIYer, a small workshop owner or running a commercial
 
 Build it once, customize it forever! This DIY monitor adapts to any sensor and any medium—air, water, oil or gas—so you’ll always know that your system is running at just the right pressure.  
 
-<img src="images/AirTools_1.png" height="300"> <img src="images/AirTools_2.png" height="300">
+<div style="max-width:100%; height:300px; overflow:hidden;">
+  <img src="images/AirTools_1.png" style="height:100%; width:auto;"> <img src="images/AirTools_2.png" style="height:100%; width:auto;">
+</div>
 
 ---
 
 ## 📋 Features
 
 - 📺 **Screen based interface** including settings menu
-- 🕑 **2 Hz instant reading** in bar  
+- 🕑 **Instant readings with accurate data** using algorythm to clean sensor's data noise
 - 📊 **5-minute stats**: minimum, average & maximum  
 - 🔔 **Custom alarm thresholds** with buzzer alerts  
 - 🌈 **Color LEDs**: blue → yellow → red for 0 → 4 → 8 bar  
 - 🔄 **Optimized OLED updates**—only redraw changed regions  
 - 💾 **EEPROM-friendly**—writes thresholds only on change  
 
-[![KypruinoPressureMonitor on Vimeo](images/vimeo.png)](https://vimeo.com/1087579404?share=copy)
+<a href="https://vimeo.com/1087579404?share=copy" target="_blank" rel="noopener noreferrer">
+  <img src="images/vimeo.png" alt="KypruinoPressureMonitor on Vimeo">
+</a>
+
 
 ---
 
@@ -76,7 +83,9 @@ Build it once, customize it forever! This DIY monitor adapts to any sensor and a
 
 > If you are using a plain Uno R3, you have to wirie external buttons, LEDs & buzzer (scheme will be added later).
 
-<img src="images/wiring.png" height="500">
+<div style="max-width:100%; height:500px; overflow:hidden;">
+  <img src="images/wiring.png" style="height:100%; width:auto;">
+</div>
 
 ---
 
