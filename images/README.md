@@ -1,17 +1,23 @@
-# Project live images
+# Project assembled photo materials
 
-<img src="in_enclosure.png" width="800">
+![In enclosure and installed on compressor](in_enclosure.png)
 
-<img src="AirTools_1.png" width="800">
+![Air tools use example photo 1](AirTools_1.png)
 
-<img src="AirTools_2.png" width="800">
+![Air tools use example photo 2](AirTools_2.png)
 
-<img src="Sensor.png" width="800">
+![Photo of the pressure sensor connected to compressor](Sensor.png)
 
-<img src="wiring.png" width="800">
+![Wiring photo of Kypruino UNO+](wiring.png)
 
-<img src="Backstage.png" width="800">
+![Backstage photo](Backstage.png)
 
-# Video
+# Project demo video
 
-[![KypruinoPressureMonitor on Vimeo](vimeo.png)](https://vimeo.com/1087579404?share=copy)
+<a href="https://vimeo.com/1087579404?share=copy" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <img src="vimeo.png"
+         alt="KypruinoPressureMonitor on Vimeo"
+         style="max-height: 300px; height: auto; width: auto; max-width: 100%; display: block; margin: auto;">
+  </picture>
+</a>
